@@ -4,11 +4,11 @@ body, h1, h2, h3, p {
     padding: 0;
 }
 
-/* Set the background to a dark color */
+/* Set the background to a hacker theme */
 body {
     font-family: Arial, sans-serif;
-    background-color: #000;
-    color: #00FF00; /* Matrix-style green text */
+    background-color: #000; /* Dark background color */
+    color: #0f0; /* Bright green text color */
     overflow: hidden; /* Hide horizontal scrollbars */
 }
 
@@ -43,14 +43,14 @@ header {
 
 /* Style the main heading */
 h1 {
-    color: #00FF00;
+    color: #0f0; /* Bright green heading text color */
     font-size: 36px;
 }
 
 /* Style the navigation menu */
 nav {
     background-color: #000;
-    color: #00FF00;
+    color: #0f0;
     padding: 10px 0;
 }
 
@@ -68,7 +68,7 @@ nav li {
 }
 
 nav a {
-    color: #00FF00;
+    color: #0f0;
     text-decoration: none;
 }
 
@@ -80,7 +80,7 @@ main {
 /* Style the footer section */
 footer {
     background-color: #000;
-    color: #00FF00;
+    color: #0f0;
     text-align: center;
     padding: 10px 0;
 }
